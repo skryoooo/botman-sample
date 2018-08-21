@@ -7,7 +7,7 @@ $botman->hears('@kawabot Hi', function ($bot) {
     $bot->reply('Hello!');
 });
 
-$botman->hears('@kawabot ping', function ($bot) {
+$botman->hears('@UBD1ASJ84 ping', function ($bot) {
     $bot->reply('pong');
 });
 
